@@ -1,0 +1,10 @@
+# Local exports and secrets
+*.msapp
+*.env
+.env.*
+*.pfx
+*.pem
+*.key
+.DS_Store
+local-exports/
+private/
